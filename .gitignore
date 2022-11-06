@@ -1,6 +1,8 @@
 target/
 .idea/
 
+Algorithms.iml
+
 # Compiled class file
 *.class
 
